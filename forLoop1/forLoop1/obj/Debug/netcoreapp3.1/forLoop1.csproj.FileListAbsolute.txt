@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\forLoop1\forLoop1\obj\Debug\netcoreapp3.1\forLoop1.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\forLoop1\forLoop1\obj\Debug\netcoreapp3.1\forLoop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\forLoop1\forLoop1\obj\Debug\netcoreapp3.1\forLoop1.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\forLoop1\forLoop1\obj\Debug\netcoreapp3.1\forLoop1.AssemblyInfo.cs
+C:\Users\91951\source\repos\forLoop1\forLoop1\obj\Debug\netcoreapp3.1\forLoop1.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\forLoop1\forLoop1\bin\Debug\netcoreapp3.1\forLoop1.exe
+C:\Users\91951\source\repos\forLoop1\forLoop1\bin\Debug\netcoreapp3.1\forLoop1.deps.json
+C:\Users\91951\source\repos\forLoop1\forLoop1\bin\Debug\netcoreapp3.1\forLoop1.runtimeconfig.json
+C:\Users\91951\source\repos\forLoop1\forLoop1\bin\Debug\netcoreapp3.1\forLoop1.runtimeconfig.dev.json
+C:\Users\91951\source\repos\forLoop1\forLoop1\bin\Debug\netcoreapp3.1\forLoop1.dll
+C:\Users\91951\source\repos\forLoop1\forLoop1\bin\Debug\netcoreapp3.1\forLoop1.pdb
+C:\Users\91951\source\repos\forLoop1\forLoop1\obj\Debug\netcoreapp3.1\forLoop1.dll
+C:\Users\91951\source\repos\forLoop1\forLoop1\obj\Debug\netcoreapp3.1\forLoop1.pdb
+C:\Users\91951\source\repos\forLoop1\forLoop1\obj\Debug\netcoreapp3.1\forLoop1.genruntimeconfig.cache
