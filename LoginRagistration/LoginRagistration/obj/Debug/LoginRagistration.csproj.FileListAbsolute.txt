@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\bin\Debug\LoginRagistration.exe.config
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\bin\Debug\LoginRagistration.exe
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\bin\Debug\LoginRagistration.pdb
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\obj\Debug\LoginRagistration.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\obj\Debug\LoginRagistration.Form1.resources
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\obj\Debug\LoginRagistration.Properties.Resources.resources
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\obj\Debug\LoginRagistration.csproj.GenerateResource.cache
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\obj\Debug\LoginRagistration.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\obj\Debug\LoginRagistration.exe
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\obj\Debug\LoginRagistration.pdb
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\bin\Debug\bin\Debug\login.mdf
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\bin\Debug\bin\Debug\login_log.ldf
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\obj\Debug\LoginRagistration.Form2.resources
+C:\Users\91951\source\repos\LoginRagistration\LoginRagistration\obj\Debug\LoginRagistration.home.resources
