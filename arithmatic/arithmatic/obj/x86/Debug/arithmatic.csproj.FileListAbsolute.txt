@@ -1,0 +1,10 @@
+E:\sahil\arithmatic\arithmatic\bin\Debug\arithmatic.exe
+E:\sahil\arithmatic\arithmatic\bin\Debug\arithmatic.pdb
+E:\sahil\arithmatic\arithmatic\obj\x86\Debug\arithmatic.exe
+E:\sahil\arithmatic\arithmatic\obj\x86\Debug\arithmatic.pdb
+C:\Users\91951\source\repos\arithmatic\arithmatic\bin\Debug\arithmatic.exe
+C:\Users\91951\source\repos\arithmatic\arithmatic\bin\Debug\arithmatic.pdb
+C:\Users\91951\source\repos\arithmatic\arithmatic\obj\x86\Debug\arithmatic.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\arithmatic\arithmatic\obj\x86\Debug\arithmatic.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\arithmatic\arithmatic\obj\x86\Debug\arithmatic.exe
+C:\Users\91951\source\repos\arithmatic\arithmatic\obj\x86\Debug\arithmatic.pdb
