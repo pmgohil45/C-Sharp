@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\bin\Debug\netcoreapp3.1\doWhileSerise1.exe
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\bin\Debug\netcoreapp3.1\doWhileSerise1.deps.json
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\bin\Debug\netcoreapp3.1\doWhileSerise1.runtimeconfig.json
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\bin\Debug\netcoreapp3.1\doWhileSerise1.runtimeconfig.dev.json
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\bin\Debug\netcoreapp3.1\doWhileSerise1.dll
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\bin\Debug\netcoreapp3.1\doWhileSerise1.pdb
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\obj\Debug\netcoreapp3.1\doWhileSerise1.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\obj\Debug\netcoreapp3.1\doWhileSerise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\obj\Debug\netcoreapp3.1\doWhileSerise1.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\obj\Debug\netcoreapp3.1\doWhileSerise1.AssemblyInfo.cs
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\obj\Debug\netcoreapp3.1\doWhileSerise1.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\obj\Debug\netcoreapp3.1\doWhileSerise1.dll
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\obj\Debug\netcoreapp3.1\doWhileSerise1.pdb
+C:\Users\91951\source\repos\doWhileSerise1\doWhileSerise1\obj\Debug\netcoreapp3.1\doWhileSerise1.genruntimeconfig.cache
