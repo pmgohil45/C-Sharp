@@ -1,0 +1,13 @@
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\bin\Debug\netcoreapp3.1\whileSeries12369.exe
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\bin\Debug\netcoreapp3.1\whileSeries12369.deps.json
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\bin\Debug\netcoreapp3.1\whileSeries12369.runtimeconfig.json
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\bin\Debug\netcoreapp3.1\whileSeries12369.runtimeconfig.dev.json
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\bin\Debug\netcoreapp3.1\whileSeries12369.dll
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\bin\Debug\netcoreapp3.1\whileSeries12369.pdb
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\obj\Debug\netcoreapp3.1\whileSeries12369.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\obj\Debug\netcoreapp3.1\whileSeries12369.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\obj\Debug\netcoreapp3.1\whileSeries12369.AssemblyInfo.cs
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\obj\Debug\netcoreapp3.1\whileSeries12369.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\obj\Debug\netcoreapp3.1\whileSeries12369.dll
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\obj\Debug\netcoreapp3.1\whileSeries12369.pdb
+C:\Users\91951\source\repos\whileSeries12369\whileSeries12369\obj\Debug\netcoreapp3.1\whileSeries12369.genruntimeconfig.cache
