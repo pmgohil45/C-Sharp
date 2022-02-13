@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\obj\Debug\netcoreapp3.1\whileSeries1.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\obj\Debug\netcoreapp3.1\whileSeries1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\obj\Debug\netcoreapp3.1\whileSeries1.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\obj\Debug\netcoreapp3.1\whileSeries1.AssemblyInfo.cs
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\obj\Debug\netcoreapp3.1\whileSeries1.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\bin\Debug\netcoreapp3.1\whileSeries1.exe
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\bin\Debug\netcoreapp3.1\whileSeries1.deps.json
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\bin\Debug\netcoreapp3.1\whileSeries1.runtimeconfig.json
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\bin\Debug\netcoreapp3.1\whileSeries1.runtimeconfig.dev.json
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\bin\Debug\netcoreapp3.1\whileSeries1.dll
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\bin\Debug\netcoreapp3.1\whileSeries1.pdb
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\obj\Debug\netcoreapp3.1\whileSeries1.dll
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\obj\Debug\netcoreapp3.1\whileSeries1.pdb
+C:\Users\91951\source\repos\whileSeries1\whileSeries1\obj\Debug\netcoreapp3.1\whileSeries1.genruntimeconfig.cache
