@@ -1,0 +1,13 @@
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\bin\Debug\netcoreapp3.1\doWhileSeries2.exe
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\bin\Debug\netcoreapp3.1\doWhileSeries2.deps.json
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\bin\Debug\netcoreapp3.1\doWhileSeries2.runtimeconfig.json
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\bin\Debug\netcoreapp3.1\doWhileSeries2.runtimeconfig.dev.json
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\bin\Debug\netcoreapp3.1\doWhileSeries2.dll
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\bin\Debug\netcoreapp3.1\doWhileSeries2.pdb
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\obj\Debug\netcoreapp3.1\doWhileSeries2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\obj\Debug\netcoreapp3.1\doWhileSeries2.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\obj\Debug\netcoreapp3.1\doWhileSeries2.AssemblyInfo.cs
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\obj\Debug\netcoreapp3.1\doWhileSeries2.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\obj\Debug\netcoreapp3.1\doWhileSeries2.dll
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\obj\Debug\netcoreapp3.1\doWhileSeries2.pdb
+C:\Users\91951\source\repos\doWhileSeries2\doWhileSeries2\obj\Debug\netcoreapp3.1\doWhileSeries2.genruntimeconfig.cache

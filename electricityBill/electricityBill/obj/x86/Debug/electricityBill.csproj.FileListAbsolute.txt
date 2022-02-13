@@ -1,0 +1,16 @@
+E:\sahil\electricityBill\electricityBill\bin\Debug\electricityBill.exe
+E:\sahil\electricityBill\electricityBill\bin\Debug\electricityBill.pdb
+E:\sahil\electricityBill\electricityBill\obj\x86\Debug\electricityBill.exe
+E:\sahil\electricityBill\electricityBill\obj\x86\Debug\electricityBill.pdb
+C:\Users\91951\source\visualstudio\electricityBill\electricityBill\bin\Debug\electricityBill.exe
+C:\Users\91951\source\visualstudio\electricityBill\electricityBill\bin\Debug\electricityBill.pdb
+C:\Users\91951\source\visualstudio\electricityBill\electricityBill\obj\x86\Debug\electricityBill.csproj.AssemblyReference.cache
+C:\Users\91951\source\visualstudio\electricityBill\electricityBill\obj\x86\Debug\electricityBill.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\visualstudio\electricityBill\electricityBill\obj\x86\Debug\electricityBill.exe
+C:\Users\91951\source\visualstudio\electricityBill\electricityBill\obj\x86\Debug\electricityBill.pdb
+C:\Users\91951\source\repos\electricityBill\electricityBill\bin\Debug\electricityBill.exe
+C:\Users\91951\source\repos\electricityBill\electricityBill\bin\Debug\electricityBill.pdb
+C:\Users\91951\source\repos\electricityBill\electricityBill\obj\x86\Debug\electricityBill.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\electricityBill\electricityBill\obj\x86\Debug\electricityBill.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\electricityBill\electricityBill\obj\x86\Debug\electricityBill.exe
+C:\Users\91951\source\repos\electricityBill\electricityBill\obj\x86\Debug\electricityBill.pdb
