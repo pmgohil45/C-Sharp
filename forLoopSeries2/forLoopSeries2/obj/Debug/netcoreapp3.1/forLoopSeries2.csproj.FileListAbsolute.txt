@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\bin\Debug\netcoreapp3.1\forLoopSeries2.exe
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\bin\Debug\netcoreapp3.1\forLoopSeries2.deps.json
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\bin\Debug\netcoreapp3.1\forLoopSeries2.runtimeconfig.json
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\bin\Debug\netcoreapp3.1\forLoopSeries2.runtimeconfig.dev.json
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\bin\Debug\netcoreapp3.1\forLoopSeries2.dll
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\bin\Debug\netcoreapp3.1\forLoopSeries2.pdb
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\obj\Debug\netcoreapp3.1\forLoopSeries2.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\obj\Debug\netcoreapp3.1\forLoopSeries2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\obj\Debug\netcoreapp3.1\forLoopSeries2.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\obj\Debug\netcoreapp3.1\forLoopSeries2.AssemblyInfo.cs
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\obj\Debug\netcoreapp3.1\forLoopSeries2.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\obj\Debug\netcoreapp3.1\forLoopSeries2.dll
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\obj\Debug\netcoreapp3.1\forLoopSeries2.pdb
+C:\Users\91951\source\repos\forLoopSeries2\forLoopSeries2\obj\Debug\netcoreapp3.1\forLoopSeries2.genruntimeconfig.cache

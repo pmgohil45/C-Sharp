@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.exe
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.deps.json
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.runtimeconfig.json
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.runtimeconfig.dev.json
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.dll
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.pdb
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.AssemblyInfo.cs
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.dll
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.pdb
+C:\Users\91951\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.genruntimeconfig.cache

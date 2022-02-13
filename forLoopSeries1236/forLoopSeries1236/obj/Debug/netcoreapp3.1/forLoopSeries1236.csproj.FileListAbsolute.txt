@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\bin\Debug\netcoreapp3.1\forLoopSeries1236.exe
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\bin\Debug\netcoreapp3.1\forLoopSeries1236.deps.json
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\bin\Debug\netcoreapp3.1\forLoopSeries1236.runtimeconfig.json
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\bin\Debug\netcoreapp3.1\forLoopSeries1236.runtimeconfig.dev.json
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\bin\Debug\netcoreapp3.1\forLoopSeries1236.dll
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\bin\Debug\netcoreapp3.1\forLoopSeries1236.pdb
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\obj\Debug\netcoreapp3.1\forLoopSeries1236.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\obj\Debug\netcoreapp3.1\forLoopSeries1236.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\obj\Debug\netcoreapp3.1\forLoopSeries1236.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\obj\Debug\netcoreapp3.1\forLoopSeries1236.AssemblyInfo.cs
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\obj\Debug\netcoreapp3.1\forLoopSeries1236.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\obj\Debug\netcoreapp3.1\forLoopSeries1236.dll
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\obj\Debug\netcoreapp3.1\forLoopSeries1236.pdb
+C:\Users\91951\source\repos\forLoopSeries1236\forLoopSeries1236\obj\Debug\netcoreapp3.1\forLoopSeries1236.genruntimeconfig.cache
