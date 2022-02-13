@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\obj\Debug\netcoreapp3.1\hollowRectangle.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\obj\Debug\netcoreapp3.1\hollowRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\obj\Debug\netcoreapp3.1\hollowRectangle.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\obj\Debug\netcoreapp3.1\hollowRectangle.AssemblyInfo.cs
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\obj\Debug\netcoreapp3.1\hollowRectangle.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\bin\Debug\netcoreapp3.1\hollowRectangle.exe
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\bin\Debug\netcoreapp3.1\hollowRectangle.deps.json
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\bin\Debug\netcoreapp3.1\hollowRectangle.runtimeconfig.json
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\bin\Debug\netcoreapp3.1\hollowRectangle.runtimeconfig.dev.json
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\bin\Debug\netcoreapp3.1\hollowRectangle.dll
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\bin\Debug\netcoreapp3.1\hollowRectangle.pdb
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\obj\Debug\netcoreapp3.1\hollowRectangle.dll
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\obj\Debug\netcoreapp3.1\hollowRectangle.pdb
+C:\Users\91951\source\repos\hollowRectangle\hollowRectangle\obj\Debug\netcoreapp3.1\hollowRectangle.genruntimeconfig.cache
