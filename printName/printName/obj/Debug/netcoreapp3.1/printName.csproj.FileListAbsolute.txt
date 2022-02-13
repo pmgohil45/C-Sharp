@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\printName\printName\bin\Debug\netcoreapp3.1\printName.exe
+C:\Users\91951\source\repos\printName\printName\bin\Debug\netcoreapp3.1\printName.deps.json
+C:\Users\91951\source\repos\printName\printName\bin\Debug\netcoreapp3.1\printName.runtimeconfig.json
+C:\Users\91951\source\repos\printName\printName\bin\Debug\netcoreapp3.1\printName.runtimeconfig.dev.json
+C:\Users\91951\source\repos\printName\printName\bin\Debug\netcoreapp3.1\printName.dll
+C:\Users\91951\source\repos\printName\printName\bin\Debug\netcoreapp3.1\printName.pdb
+C:\Users\91951\source\repos\printName\printName\obj\Debug\netcoreapp3.1\printName.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\printName\printName\obj\Debug\netcoreapp3.1\printName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\printName\printName\obj\Debug\netcoreapp3.1\printName.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\printName\printName\obj\Debug\netcoreapp3.1\printName.AssemblyInfo.cs
+C:\Users\91951\source\repos\printName\printName\obj\Debug\netcoreapp3.1\printName.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\printName\printName\obj\Debug\netcoreapp3.1\printName.dll
+C:\Users\91951\source\repos\printName\printName\obj\Debug\netcoreapp3.1\printName.pdb
+C:\Users\91951\source\repos\printName\printName\obj\Debug\netcoreapp3.1\printName.genruntimeconfig.cache
